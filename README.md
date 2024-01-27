@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Choudhari</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-choudhari&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-choudhari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itsjustsakshi_" target="blank"><img src="https://img.shields.io/twitter/follow/itsjustsakshi_?logo=twitter&style=for-the-badge" alt="itsjustsakshi_" /></a> </p>
 
